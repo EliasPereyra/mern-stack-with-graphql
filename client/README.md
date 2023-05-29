@@ -1,6 +1,6 @@
 # Client side
 
-## Tool
+## Tools
 
 - React
 - GraphQL
