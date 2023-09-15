@@ -1,4 +1,4 @@
-# MERN stack with Graphql
+# Project assigner
 
 ## About the Project
 
